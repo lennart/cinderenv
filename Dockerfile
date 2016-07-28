@@ -5,6 +5,7 @@ RUN apt-get update -q \
      build-essential \
      cmake \
      clang \
+     emacs24 \
      git-core \
      libxcursor-dev \
      libxrandr-dev \
